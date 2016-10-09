@@ -1,1 +1,1 @@
-Print("Hello World")
+Print("Greetings Earth")
